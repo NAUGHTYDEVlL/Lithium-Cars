@@ -4,7 +4,7 @@
   <HandlingData>
 	<Item type="CHandlingData">
       <handlingName>DURANGO</handlingName>
-     <fMass value="4104.0" />
+    <fMass value="4104.0" />
 			<fInitialDragCoeff value="5.0" />
 			<fDownforceModifier value="1.5" />
 			<fPercentSubmerged value="85.0" />
@@ -16,7 +16,7 @@
 			<fDriveInertia value="1.0" />
 			<fClutchChangeRateScaleUpShift value="2.1" />
 			<fClutchChangeRateScaleDownShift value="2.1" />
-			<fInitialDriveMaxFlatVel value="235.0" />
+			<fInitialDriveMaxFlatVel value="215.0" />
 			<fBrakeForce value="1.4" />
 			<fBrakeBiasFront value="0.65" />
 			<fHandBrakeForce value="0.6" />
